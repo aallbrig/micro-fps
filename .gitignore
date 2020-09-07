@@ -78,4 +78,6 @@ crashlytics-build.properties
 
 # Disable assets to prevent commercial assets from being exposed
 # TODO: Whitelist fully open source assets
-Assets
+/Assets/*
+!*/FPS
+
